@@ -1,0 +1,24 @@
+{
+  "name": "kdrama_api",
+  "version": "1.0.0",
+  "description": "This is an API for entering and tracking kdramas and their cast.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "morgan": "^1.9.1",
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
