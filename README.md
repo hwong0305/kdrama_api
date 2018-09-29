@@ -1,4 +1,3 @@
 # kdrama_api
-An API for tracking Kdramas. 
 
-This API backend provides CRUD operations to connect to a Sequelize Database. 
+This is the back end of an application to store Korean drama information. This backend was built with the intent of understand many to many associations using Sequelize. 
